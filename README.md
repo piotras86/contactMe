@@ -8,8 +8,8 @@ My projects consist from the following tech stack:<br/>
 -CSS/SASS(scss),<br/>
 -JS,<br/>
 -React,<br/>
--nodeJS (pug, axios, express), integration with Stripe, Mailchimp, Mailtrap,<br/>
+-nodeJS (pug, express), integration with Stripe, Mailchimp, Mailtrap,<br/>
 -SQL (PostgreSQL), noSQL (mongoDB),<br/>
 -GraphQL and REST APIs,<br/>
 
-I utilise pretier, docker, ESLint, visual studio code as main IDE, git & gitHUB, webpack.
+I utilise pretier, docker, ESLint, visual studio code as main IDE, git, webpack.
